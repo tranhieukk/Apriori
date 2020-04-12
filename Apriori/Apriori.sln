@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apriori", "Apriori.csproj", "{FF29EFA6-BB30-4546-A3B0-D23742BD599F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF29EFA6-BB30-4546-A3B0-D23742BD599F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF29EFA6-BB30-4546-A3B0-D23742BD599F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF29EFA6-BB30-4546-A3B0-D23742BD599F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF29EFA6-BB30-4546-A3B0-D23742BD599F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E89F89-F977-475D-97DD-CDE84AC4754D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\tranh\source\repos\Apriori\bin\Debug\netcoreapp3.1\Apriori.exe
+C:\Users\tranh\source\repos\Apriori\bin\Debug\netcoreapp3.1\Apriori.deps.json
+C:\Users\tranh\source\repos\Apriori\bin\Debug\netcoreapp3.1\Apriori.runtimeconfig.json
+C:\Users\tranh\source\repos\Apriori\bin\Debug\netcoreapp3.1\Apriori.runtimeconfig.dev.json
+C:\Users\tranh\source\repos\Apriori\bin\Debug\netcoreapp3.1\Apriori.dll
+C:\Users\tranh\source\repos\Apriori\bin\Debug\netcoreapp3.1\Apriori.pdb
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.csprojAssemblyReference.cache
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.csproj.CoreCompileInputs.cache
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.AssemblyInfoInputs.cache
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.AssemblyInfo.cs
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.dll
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.pdb
+C:\Users\tranh\source\repos\Apriori\obj\Debug\netcoreapp3.1\Apriori.genruntimeconfig.cache
